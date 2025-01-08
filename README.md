@@ -12,4 +12,4 @@ I created this project for my academic purpose. The main goal of this project is
 9. User device compatibility.
 10. Manage user security.
 
-I used MySQL language here. 
+I used MySQL language here and added some project-related screenshots inside "Project Screenshots".
