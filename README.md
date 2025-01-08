@@ -13,3 +13,9 @@ I created this project for my academic purpose. The main goal of this project is
 10. Manage user security.
 
 I used MySQL language here and added project-related screenshots inside "Project Screenshots".
+
+
+Team Members:
+1. QM Asif Tanjim       NSU ID: 2211402042
+2. Nowren Mahjabin Khan NSU ID: 2211129642
+3. Musaddik Ibne Munsur NSU ID: 2013287642
