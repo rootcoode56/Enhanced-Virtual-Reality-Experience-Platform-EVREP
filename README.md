@@ -1,6 +1,6 @@
 # Enhanced-Virtual-Reality-Experience-Platform-EVREP
 Virtual Reality Database Management System Project
-I created this project for my academic purpose. The main goal of this project is to secure a database system for all the Virtual Reality users. Also this system collects all the data of:
+I created this project for my academic purpose. The main goal of this project is to secure a database system for all the Virtual Reality users. Also, this system collects all the data of:
 1. User data.
 2. Manage user interaction.
 3. Collect User Feedback.
@@ -12,4 +12,4 @@ I created this project for my academic purpose. The main goal of this project is
 9. User device compatibility.
 10. Manage user security.
 
-I used MySQL language here and added some project-related screenshots inside "Project Screenshots".
+I used MySQL language here and added project-related screenshots inside "Project Screenshots".
